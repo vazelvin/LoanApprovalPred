@@ -1,6 +1,5 @@
 #Big Data 2 - Project 1
 #Loan Amount Analysis and Prediction based on Bank Dataset
-#Group 7
 
 
 
